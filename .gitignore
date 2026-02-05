@@ -1,0 +1,25 @@
+# Build output
+/build/
+build/
+build/classes/
+*.class
+*.jar
+*.war
+
+# IDE
+*.iml
+.idea/
+nbproject/private/
+nbproject/private/*
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+*.tmp
